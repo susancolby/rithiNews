@@ -1,5 +1,7 @@
+<html>
 <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
-
+</html>
+<style>
 body {margin:0;}
 
 ul {
@@ -39,4 +41,4 @@ li a:hover:not(.active) {
   color:#781f99;
   font-family:'Yeseva One';
 }
-  
+</style> 
