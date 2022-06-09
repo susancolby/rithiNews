@@ -30,6 +30,12 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: #781f99;
+}
+
+#companyh1 {
+  font-size:110px;
+  color:#781f99;
+  font-family:'Yeseva One';
 }
   
