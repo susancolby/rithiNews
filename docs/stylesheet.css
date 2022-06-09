@@ -7,8 +7,8 @@ body {margin:0;}
 ul {
   font-family:Arial;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin:0;
+  padding-top: 115px;
   overflow: hidden;
   background-color: #333;
   position: fixed;
