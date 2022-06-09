@@ -227,21 +227,19 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
- function emaildata() {
 // Requiring fs module in which
 // writeFile function is defined.
 const fs = require('fs')
   
 // Data which will write in a file.
-let data = "<p>"+document.getElementById('email').value+"</p>"
+let data = document.getElementById('email').value
   
 // Write data in 'Output.txt' .
-fs.writeFile('actionPage.html', data, (err) => {
+fs.writeFile('emails.txt', data, (err) => {
       
     // In case of a error throw err.
     if (err) throw err;
 })
-}
 </script>
 
 
