@@ -39,5 +39,6 @@ li a:hover:not(.active) {
   font-size:100px;
   color:#781f99;
   font-family:'Yeseva One';
+  margin-bottom:5px;
 }
 </style> 
