@@ -12,7 +12,7 @@ ul {
   overflow: hidden;
   background-color: #333;
   position: sticky;
-  top: 90px;
+  top: 10px;
 }
 
 li {
