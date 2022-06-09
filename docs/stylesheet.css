@@ -11,9 +11,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position-top: -webkit-sticky; /* Safari */
   position: sticky;
-  top: 0;
+  top: 105px;
 }
 
 li {
